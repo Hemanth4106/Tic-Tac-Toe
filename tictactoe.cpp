@@ -1,4 +1,4 @@
-//Tic Tac Toe
+//Tic Tac Toe with Computer
 #include<bits/stdc++.h>
 using namespace std;
 #define COMPUTER 1
