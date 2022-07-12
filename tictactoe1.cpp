@@ -1,4 +1,4 @@
-//Tic Tac Toe Game in C++
+//Tic Tac Toe Game for Multiplayers
 
 //Importing the inbuild libraries in CPP
 #include <iostream>
